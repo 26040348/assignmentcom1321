@@ -5,8 +5,9 @@
 
 /**
  *
- * @author SEISANI GUNDO JR
+ * @author Asaria
  */
+//Munzhelele Asaria 26040348
 public class Main {
 
     public static void main(String[] args) {
